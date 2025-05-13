@@ -1,0 +1,7 @@
+# Base dependencies
+sentence-transformers
+pdfplumber
+google-generativeai
+numpy
+python-dotenv
+faiss-cpu
